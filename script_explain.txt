@@ -1,0 +1,10 @@
+E:\Project\PycharmProjects\function_disassemble\disa_func
+
+
+
+
+idaw64 -c -A -S"E:\Project\PycharmProjects\function_disassemble\disa_func\export_asm.py" "E:\Works\Data\paper2\calc.exe"
+
+
+
+idaw64 -c -A -S"E:\Project\PycharmProjects\function_disassemble\disa_func\export_function.py" "E:\Works\Data\paper2\calc.exe"
